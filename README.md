@@ -14,3 +14,4 @@ Multi-Device Sync: Access your data seamlessly across multiple devices.
 Data Export/Import: Backup your expenses or import existing data in CSV format.
 Secure and Private: User data is encrypted for complete privacy and security.
 
+
