@@ -33,3 +33,12 @@ With intuitive charts and reminders, users can save smarter, stay within budget,
 - **Secure and Private**  
   User data is encrypted for complete privacy and security.
 
+
+## SET BUDGET PAGE
+<img width="1566" alt="Screenshot 2025-02-07 at 8 29 53 PM" src="https://github.com/user-attachments/assets/3f324f50-61df-46dd-b4c4-d2641a02ccbc" />
+
+## ADD EXPENSES PAGE
+<img width="1467" alt="Screenshot 2025-02-07 at 8 30 40 PM" src="https://github.com/user-attachments/assets/e5afa3df-55e6-4032-8f54-5c6a02e4813e" />
+
+
+
