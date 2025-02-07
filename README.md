@@ -51,11 +51,3 @@ With intuitive charts and reminders, users can save smarter, stay within budget,
 
 <img width="1566" alt="Screenshot 2025-02-07 at 8 32 38 PM" src="https://github.com/user-attachments/assets/2941dd1a-7660-4e48-96a3-88b5e7da158c" />
 
-
-
-
-
-
-
-
-<img width="1566" alt="Screenshot 2025-02-07 at 8 32 38 PM" src="https://github.com/user-attachments/assets/47cad2d4-b2e4-4573-b7e9-fd7eea8b9c71" />
