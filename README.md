@@ -57,29 +57,16 @@ With intuitive charts and reminders, users can save smarter, stay within budget,
 
 We’re excited to expand **EduBudget** with innovative features to enhance the budgeting experience for students and educators:
 
-### 🤖 AI-Powered Features
+###  AI-Powered Features
 - **AI-Powered Budget Recommendations:** Smart suggestions based on spending habits and saving goals.
 - **Expense Prediction:** Use machine learning models to predict future expenses and optimize budgeting strategies.
 - **AI Chatbot Assistant:** A virtual budgeting assistant to provide real-time advice and insights.
 
-### 📊 Advanced Analytics
-- **Personalized Financial Insights:** Deep analysis of spending patterns with tailored financial tips.
-- **Visual Trend Analysis:** Graphical reports and dashboards powered by data visualization tools.
-- **Goal Tracking & Forecasting:** Set financial goals with AI-driven progress tracking and forecasts.
-
-### 🌐 Cloud Integration
-- **Multi-Device Sync:** Seamless data synchronization across devices using cloud storage.
-- **Secure Cloud Backups:** Automated backups to ensure data safety and easy recovery.
-
-### 💳 Enhanced Payment Features
+### Enhanced Payment Features
 - **Bank Integration:** Connect with banks for real-time expense tracking.
 - **Automated Bill Payments:** Schedule and automate recurring payments.
 
-### 🎓 Student-Centric Additions
-- **Scholarship & Grant Tracking:** Tools to monitor scholarships, grants, and financial aid.
-- **Educational Discounts & Offers:** Curated deals and discounts for students.
-
-### 🔐 Security Upgrades
+### Security Upgrades
 - **Biometric Authentication:** Enhanced security using fingerprint or face recognition.
 - **End-to-End Encryption:** Ensure complete data privacy and protection.
 
